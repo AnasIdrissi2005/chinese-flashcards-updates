@@ -1,8 +1,8 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 25,
-  "versionName": "3.9",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v3.9/Chinese_Flashcards_v3.9.apk",
-  "notes": "Learning now includes All lessons: explore all 273 words with saved progress and a separate resume position. The current word’s lesson is shown.",
-  "sha256": "f1fc3897b5d0ab4378a1214abbd1f65390cd039595483745b5e7b627acfa1705"
+  "versionCode": 26,
+  "versionName": "4.0",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v3.10/Chinese_Flashcards_v4.0.apk",
+  "notes": "New startup loading screen checks for updates automatically. See what is new, then choose Update now or Later. Offline learning remains available, with a Continue to learning button and a short timeout.",
+  "sha256": "088abf0b3c3956c1f531d7fe3c110ce20fb515f51d3e5fb02ec75495c47666dc"
 }
