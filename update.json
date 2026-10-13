@@ -1,8 +1,8 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 26,
-  "versionName": "4.0",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v4.0/Chinese_Flashcards_v4.apk",
-  "notes": "New startup loading screen checks for updates automatically. See what is new, then choose Update now or Later. Offline learning remains available, with a Continue to learning button and a short timeout.",
-  "sha256": "088abf0b3c3956c1f531d7fe3c110ce20fb515f51d3e5fb02ec75495c47666dc"
+  "versionCode": 27,
+  "versionName": "4.1",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v4.1/Chinese_Flashcards_v4.1.apk",
+  "notes": "Custom quizzes: select one, several, or all lessons; choose Meaning, Pinyin, or Mixed and 10, 20, or 30 questions. New results screen shows your incorrect answers and lets you practise only your mistakes. Quiz preferences are saved.",
+  "sha256": "f822c822b9cb7d1531bd379719a4a417d001c4e9ed27c079e042bb71fec06bb5"
 }
