@@ -2,7 +2,7 @@
   "packageName": "com.anas.chinesecards",
   "versionCode": 26,
   "versionName": "4.0",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v3.10/Chinese_Flashcards_v4.0.apk",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v4.0/Chinese_Flashcards_v4.apk",
   "notes": "New startup loading screen checks for updates automatically. See what is new, then choose Update now or Later. Offline learning remains available, with a Continue to learning button and a short timeout.",
   "sha256": "088abf0b3c3956c1f531d7fe3c110ce20fb515f51d3e5fb02ec75495c47666dc"
 }
