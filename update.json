@@ -1,8 +1,8 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 28,
-  "versionName": "4.2",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v4.2/Chinese_Flashcards_v4.2.apk",
-  "notes": "New Learning journey home screen with resume learning, Learn / Flashcards / Quiz shortcuts, difficult-word review and weekly progress. Browse all lessons with learning progress and filters. Simplified bottom navigation: Home, Saved, Progress. Custom quizzes and mistake practice are retained.",
-  "sha256": "036fe35b76fe05e295fe0f6ee069c1d38c4ca226257bbc22ccccfbba9e87b5dd"
+  "versionCode": 29,
+  "versionName": "4.3",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v4.3/Chinese_Flashcards_v4.3.apk",
+  "notes": "New illustrations for Lessons 1–10 in the lesson browser. The home screen now shows the matching image and topic for your current lesson. All images are bundled for offline use. Existing vocabulary and study progress are retained.",
+  "sha256": "4f8ac0f93972ce93e95ce03220aeb17f73eae012ea54b3046cb68064c532f601"
 }
