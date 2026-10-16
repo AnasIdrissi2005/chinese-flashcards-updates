@@ -1,8 +1,8 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 30,
-  "versionName": "4.3.1",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v4.3.1/Chinese_Flashcards_v4.3.1.apk",
-  "notes": "Fixes lesson images not displaying on Android. All ten lesson illustrations are now embedded in the app page and work offline, including the current lesson image on Home. Existing vocabulary and progress are retained.",
-  "sha256": "cafadb67ac1064649d3bb0fa5c053223a5706ac884077a2ae7c3e12cdfdc9e1d"
+  "versionCode": 31,
+  "versionName": "4.4",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v4.4/Chinese_Flashcards_v4.4.apk",
+  "notes": "New usage examples button beside each word meaning in Learning. Open word details with Chinese, pinyin and English meaning, plus two Chinese example sentences with English translations and no sentence pinyin. Covers all 273 words across ten lessons and works offline. Back to learning returns to the same word.",
+  "sha256": "d654d03058e14f2d07ffdc3f024c36b84548e7a5b80f59c3c485725b9234df64"
 }
