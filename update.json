@@ -1,11 +1,11 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 32,
-  "versionName": "5.0",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.0/Chinese_Flashcards_v5.0.apk",
-  "notes": "IMPORTANT: This release requires a fresh installation. The old app's automatic statement below about keeping progress DOES NOT APPLY to version 5.0.\n\nChinese Flashcards 5.0 — Important Update\nA new version is available! Due to a new signing key, it cannot be installed over version 4.4 or earlier.\n\n1. Download Chinese Flashcards 5.0 using Update now and keep the APK in Downloads.\n2. Uninstall your current Chinese Flashcards app.\n3. Open the downloaded APK and install it.\n4. Start learning from zero.\n\nWARNING: Uninstalling normally permanently deletes your saved learning progress, favorites and statistics. No data migration is provided.\n\nIncludes all 11 lessons, 301 cards and 602 Chinese/English examples. Future 5.x updates will use the same new signing key.",
-  "sha256": "bf49feb205bf79c1c962f748fee18ddad29cc8965587c556809318c4dc7cbb8c",
-  "title": "Chinese Flashcards 5.0 — Important Update",
-  "buttonText": "Download Chinese Flashcards 5.0",
-  "requiresReinstall": true
+  "versionCode": 33,
+  "versionName": "5.1",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.1/Chinese_Flashcards_v5.1.apk",
+  "notes": "New green-and-gold app icon. Settings > Show Pinyin lets you show or hide pronunciation hints in Learning, flashcards, saved words and word details. Your preference is saved. Pinyin quiz answers remain visible. Updates version 5.0 normally. IMPORTANT: users on 4.4 or earlier must download this APK, uninstall the old app, then install; uninstalling deletes local progress, favorites and statistics.",
+  "sha256": "5b4088d969f18c6e4016c4dfdfc76bf6e8900b98a66f79371d44bb6d546c627f",
+  "title": "Chinese Flashcards 5.1",
+  "buttonText": "Download update",
+  "requiresReinstall": false
 }
