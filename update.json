@@ -1,8 +1,11 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 31,
-  "versionName": "4.4",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v4.4/Chinese_Flashcards_v4.4.apk",
-  "notes": "New usage examples button beside each word meaning in Learning. Open word details with Chinese, pinyin and English meaning, plus two Chinese example sentences with English translations and no sentence pinyin. Covers all 273 words across ten lessons and works offline. Back to learning returns to the same word.",
-  "sha256": "d654d03058e14f2d07ffdc3f024c36b84548e7a5b80f59c3c485725b9234df64"
+  "versionCode": 32,
+  "versionName": "5.0",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.0/Chinese_Flashcards_v5.0.apk",
+  "notes": "IMPORTANT: This release requires a fresh installation. The old app's automatic statement below about keeping progress DOES NOT APPLY to version 5.0.\n\nChinese Flashcards 5.0 — Important Update\nA new version is available! Due to a new signing key, it cannot be installed over version 4.4 or earlier.\n\n1. Download Chinese Flashcards 5.0 using Update now and keep the APK in Downloads.\n2. Uninstall your current Chinese Flashcards app.\n3. Open the downloaded APK and install it.\n4. Start learning from zero.\n\nWARNING: Uninstalling normally permanently deletes your saved learning progress, favorites and statistics. No data migration is provided.\n\nIncludes all 11 lessons, 301 cards and 602 Chinese/English examples. Future 5.x updates will use the same new signing key.",
+  "sha256": "bf49feb205bf79c1c962f748fee18ddad29cc8965587c556809318c4dc7cbb8c",
+  "title": "Chinese Flashcards 5.0 — Important Update",
+  "buttonText": "Download Chinese Flashcards 5.0",
+  "requiresReinstall": true
 }
