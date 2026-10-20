@@ -1,10 +1,10 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 36,
-  "versionName": "5.4",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.4/Chinese_Flashcards_v5.4.apk",
-  "notes": "A cleaner update window for a better learning experience. Users on 4.4 or earlier must reinstall; uninstalling deletes saved data.",
-  "sha256": "9494ff662b67dddb62e105590ecd485d1b6a08468fac23c8cc9f2dbc6002d1b3",
+  "versionCode": 37,
+  "versionName": "5.5",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.5/Chinese_Flashcards_v5.5.apk",
+  "notes": "Swipe back to return to the previous page. On Home, swipe back twice to exit. Users on 4.4 or earlier must reinstall; uninstalling deletes saved data.",
+  "sha256": "4590c2a36b1550737debfae9431af223821f7bcaabd0cb034d791fe7879ac359",
   "title": "A little upgrade",
   "buttonText": "Update now",
   "requiresReinstall": false
