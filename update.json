@@ -1,10 +1,10 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 42,
-  "versionName": "5.10",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.10/Chinese_Flashcards_v5.10.apk",
-  "notes": "Redesigned Home and Progress, with clearer goals and lesson progress.",
-  "sha256": "ac5e5c1634a0d9d6a1a56cbf63e78e011c0d92b77c256a76bd65da7b42352504",
+  "versionCode": 43,
+  "versionName": "5.11",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.11/Chinese_Flashcards_v5.11.apk",
+  "notes": "More compact Home and Progress layouts, with screen-height-aware spacing.",
+  "sha256": "b44ed75ad0eae69d124a45ecddfbb2e198e4e6922167fb499b738279d91b9665",
   "title": "A little upgrade",
   "buttonText": "Update now",
   "requiresReinstall": false
