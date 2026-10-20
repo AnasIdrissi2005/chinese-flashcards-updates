@@ -1,10 +1,10 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 39,
-  "versionName": "5.7",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.7/Chinese_Flashcards_v5.7.apk",
-  "notes": "Restored illustrations, cleaner taps, and a steady screen without pinch zoom.",
-  "sha256": "8f2c26e7896b5174f175fa247a37c91a6c19598cb4700ba0c65a293715c4ecb0",
+  "versionCode": 40,
+  "versionName": "5.8",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.8/Chinese_Flashcards_v5.8.apk",
+  "notes": "A full-screen illustration for your empty collection.",
+  "sha256": "8d173c169b1fd6bb42302f5dcd7dcecf8afb938012bdaee4e4884e2b16586bdf",
   "title": "A little upgrade",
   "buttonText": "Update now",
   "requiresReinstall": false
