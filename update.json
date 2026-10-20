@@ -1,10 +1,10 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 38,
-  "versionName": "5.6",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.6/Chinese_Flashcards_v5.6.apk",
-  "notes": "A calmer new look: illustrated cards, gentle motion, clearer answers and refined navigation.",
-  "sha256": "6268cfe3eb5cc770157668e7b745f61cc8a38ec29660f5dd10ff806db4b02258",
+  "versionCode": 39,
+  "versionName": "5.7",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.7/Chinese_Flashcards_v5.7.apk",
+  "notes": "Restored illustrations, cleaner taps, and a steady screen without pinch zoom.",
+  "sha256": "8f2c26e7896b5174f175fa247a37c91a6c19598cb4700ba0c65a293715c4ecb0",
   "title": "A little upgrade",
   "buttonText": "Update now",
   "requiresReinstall": false
