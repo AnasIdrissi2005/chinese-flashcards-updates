@@ -1,11 +1,11 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 34,
-  "versionName": "5.2",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.2/Chinese_Flashcards_v5.2.apk",
-  "notes": "New warm ivory and forest-green design. Redesigned Home, illustrated lesson cards with progress filters and title search, refreshed quiz results with mistake practice and weekly activity. Existing vocabulary, progress and Show Pinyin preference retained. Install over 5.0 or 5.1 normally. Users on 4.4 or earlier must uninstall the old app first, which deletes local saved data.",
-  "sha256": "256d349db6d8d0817810e500727a72fffc17f49c317eb99b18acbd39d0b45f0f",
-  "title": "Chinese Flashcards 5.2 — Learning Journey Redesign",
-  "buttonText": "Download update",
+  "versionCode": 36,
+  "versionName": "5.4",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.4/Chinese_Flashcards_v5.4.apk",
+  "notes": "A cleaner update window for a better learning experience. Users on 4.4 or earlier must reinstall; uninstalling deletes saved data.",
+  "sha256": "9494ff662b67dddb62e105590ecd485d1b6a08468fac23c8cc9f2dbc6002d1b3",
+  "title": "A little upgrade",
+  "buttonText": "Update now",
   "requiresReinstall": false
 }
