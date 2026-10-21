@@ -1,10 +1,10 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 47,
-  "versionName": "5.15",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.15/Chinese_Flashcards_v5.15.apk",
-  "notes": "Discover lessons 12–18: 190 new words and 380 bilingual examples.",
-  "sha256": "bdf49199094aef6229b40b2c1c309904fa89b0ed01f395f4c6e6290ad1cf92b8",
+  "versionCode": 48,
+  "versionName": "5.16",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.16/ANS_Flashcards_v5.16.apk",
+  "notes": "ANS Flashcards: matching Home icon and character-first flashcards. Tap to reveal pronunciation and meaning.",
+  "sha256": "f6401a088c3136c7626d017082516a79846bedd52e432d6548ea882bb308de79",
   "title": "A little upgrade",
   "buttonText": "Update now",
   "requiresReinstall": false
