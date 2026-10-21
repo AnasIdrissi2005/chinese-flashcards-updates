@@ -1,10 +1,10 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 45,
-  "versionName": "5.13",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.13/Chinese_Flashcards_v5.13.apk",
-  "notes": "A fresh Modern Calm button design, with clearer controls and golden favorites.",
-  "sha256": "fd5e9bf788f566617aa153046602ce8228a100d85528503a0902b6051ec7ea27",
+  "versionCode": 46,
+  "versionName": "5.14",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.14/Chinese_Flashcards_v5.14.apk",
+  "notes": "Restores the previous button design.",
+  "sha256": "1ec2af9089bafb85a801b7e2b0f130c4f33c6d5364524c68957450780aab4a91",
   "title": "A little upgrade",
   "buttonText": "Update now",
   "requiresReinstall": false
