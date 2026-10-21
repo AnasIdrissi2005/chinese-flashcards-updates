@@ -1,10 +1,10 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 44,
-  "versionName": "5.12",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.12/Chinese_Flashcards_v5.12.apk",
-  "notes": "Home and Progress now adapt to the space above navigation, with shorter shortcut cards.",
-  "sha256": "d7c208e10b3444ce9f5a45126e4dbea319b710455cbd628ddbc8f650fece4e91",
+  "versionCode": 45,
+  "versionName": "5.13",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.13/Chinese_Flashcards_v5.13.apk",
+  "notes": "A fresh Modern Calm button design, with clearer controls and golden favorites.",
+  "sha256": "fd5e9bf788f566617aa153046602ce8228a100d85528503a0902b6051ec7ea27",
   "title": "A little upgrade",
   "buttonText": "Update now",
   "requiresReinstall": false
