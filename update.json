@@ -1,11 +1,9 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 53,
-  "versionName": "5.21",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.21/ANS_Flashcards_v5.21.apk",
-  "notes": "Choose recognized characters and review your strokes in a larger comparison view.",
-  "sha256": "2c70c081a4697ea17e32bd61ba1818d8911d35a0b1100f2e92ef854cd7e11ba8",
-  "title": "A little upgrade",
-  "buttonText": "Update now",
+  "versionCode": 54,
+  "versionName": "5.22",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.22/ANS_Flashcards_v5.22.apk",
+  "notes": "A compact quiz setup with a separate lesson chooser.",
+  "sha256": "67163fef3176193ec6cdf1045d85863ef9d9511f4cb633fa24aa57a3bda52de0",
   "requiresReinstall": false
 }
