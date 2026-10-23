@@ -1,10 +1,10 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 48,
-  "versionName": "5.16",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.16/ANS_Flashcards_v5.16.apk",
-  "notes": "ANS Flashcards: matching Home icon and character-first flashcards. Tap to reveal pronunciation and meaning.",
-  "sha256": "f6401a088c3136c7626d017082516a79846bedd52e432d6548ea882bb308de79",
+  "versionCode": 53,
+  "versionName": "5.21",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.21/ANS_Flashcards_v5.21.apk",
+  "notes": "Choose recognized characters and review your strokes in a larger comparison view.",
+  "sha256": "2c70c081a4697ea17e32bd61ba1818d8911d35a0b1100f2e92ef854cd7e11ba8",
   "title": "A little upgrade",
   "buttonText": "Update now",
   "requiresReinstall": false
