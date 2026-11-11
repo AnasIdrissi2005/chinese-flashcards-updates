@@ -1,10 +1,10 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 58,
-  "versionName": "5.26",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.26/ANS_Flashcards_v5.26.apk",
-  "notes": "Download updates inside the app, with progress, cancellation and verified installation. Check for updates in Settings. Your learning data stays on your device.",
-  "sha256": "2f4d5e4b3afe2e457733886edccad1b69366198aadb134bb460e5e91297e07df",
-  "sizeBytes": 41829410,
+  "versionCode": 59,
+  "versionName": "5.27",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.27/ANS_Flashcards_v5.27.apk",
+  "notes": "New illustrations for lessons 11–18, with the original Chinese lesson titles and objectives.",
+  "sha256": "daacd1eb96b82342c2460caa4777f070172ce98c6edc4064eeeb97e5f5ac4612",
+  "sizeBytes": 46840106,
   "requiresReinstall": false
 }
