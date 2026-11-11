@@ -1,9 +1,10 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 56,
-  "versionName": "5.24",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.24/ANS_Flashcards_v5.24.apk",
-  "notes": "Practise words in context with Sentences. Home-screen name: ASK 3.",
-  "sha256": "ab92922ee08c0bd1e1b4d72516b575dadfd9465f54eb3785e58cf8cd744a4eb0",
+  "versionCode": 58,
+  "versionName": "5.26",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.26/ANS_Flashcards_v5.26.apk",
+  "notes": "Download updates inside the app, with progress, cancellation and verified installation. Check for updates in Settings. Your learning data stays on your device.",
+  "sha256": "2f4d5e4b3afe2e457733886edccad1b69366198aadb134bb460e5e91297e07df",
+  "sizeBytes": 41829410,
   "requiresReinstall": false
 }
