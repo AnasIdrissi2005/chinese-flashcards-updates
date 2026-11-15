@@ -1,10 +1,10 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 61,
-  "versionName": "5.29",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.29/ANS_Flashcards_v5.29.apk",
-  "notes": "Background update notifications with battery-conscious periodic checks. Enable in Settings: Update notifications. Tap an alert to review and install manually.",
-  "sha256": "adbb8ed798e861ff800628965bbfb9dc596859b11e54baabaa2a9e95bf5fb99d",
+  "versionCode": 62,
+  "versionName": "5.30",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.30/ANS_Flashcards_v5.30.apk",
+  "notes": "Refined Written Exam Preparation design and improved handwriting contrast in practice and review.",
+  "sha256": "aebf01cac5adb2d3e1b31063a2f0aba5732dd7b0783c4e1523cc98a964ee3989",
   "sizeBytes": 47004031,
   "requiresReinstall": false
 }
