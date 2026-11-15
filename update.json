@@ -1,10 +1,10 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 60,
-  "versionName": "5.28",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.28/ANS_Flashcards_v5.28.apk",
-  "notes": "Prepare for the November 17 written exam with Study, Writing Practice and Mock Exam for Lessons 15 and 16. Offline practice, separate progress tracking and retry incorrect answers. Writing is self-assessed.",
-  "sha256": "6202f76d958526468add867b62252be69e65c88095a3565101ff061d5957632f",
-  "sizeBytes": 46840106,
+  "versionCode": 61,
+  "versionName": "5.29",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.29/ANS_Flashcards_v5.29.apk",
+  "notes": "Background update notifications with battery-conscious periodic checks. Enable in Settings: Update notifications. Tap an alert to review and install manually.",
+  "sha256": "adbb8ed798e861ff800628965bbfb9dc596859b11e54baabaa2a9e95bf5fb99d",
+  "sizeBytes": 47004031,
   "requiresReinstall": false
 }
