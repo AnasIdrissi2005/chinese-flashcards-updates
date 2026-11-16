@@ -1,10 +1,10 @@
 {
   "packageName": "com.anas.chinesecards",
-  "versionCode": 62,
-  "versionName": "5.30",
-  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.30/ANS_Flashcards_v5.30.apk",
-  "notes": "Refined Written Exam Preparation design and improved handwriting contrast in practice and review.",
-  "sha256": "aebf01cac5adb2d3e1b31063a2f0aba5732dd7b0783c4e1523cc98a964ee3989",
-  "sizeBytes": 47004031,
+  "versionCode": 63,
+  "versionName": "5.31",
+  "apkUrl": "https://github.com/AnasIdrissi2005/chinese-flashcards-updates/releases/download/v5.31/ANS_Flashcards_v5.31.apk",
+  "notes": "Handwriting recognition choices for the written exam preparation.",
+  "sha256": "a3bceaea04b7b4b35785f88358193aba1011382e7303d6e8d9f30d42cc759470",
+  "sizeBytes": 47008127,
   "requiresReinstall": false
 }
